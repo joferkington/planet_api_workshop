@@ -13,5 +13,7 @@ searching for scenes.
 You can launch an interactive version of this using Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joferkington/planet_api_workshop/master)
 
+You can also access the [slides for the workshop](WorkshopSlides.pdf).
+
 This material draws heavily from the examples in
 https://github.com/planetlabs/notebooks/
